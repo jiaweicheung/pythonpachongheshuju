@@ -1,0 +1,25 @@
+username: root
+
+paasword: p%9*EIlVY2*7X%C&
+
+login request url (post): https://wordpress-edu-3autumn.localprod.oc.forchange.cn/wp-login.php
+
+Login Form Data: {log: root
+pwd: p%9*EIlVY2*7X%C&
+wp-submit: 登录
+redirect_to: https://wordpress-edu-3autumn.localprod.oc.forchange.cn
+testcookie: 1}
+
+comment request url (post): https://wordpress-edu-3autumn.localprod.oc.forchange.cn/wp-comments-post.php
+
+Comment Form Data: {comment: 哈哈哈
+submit: 发表评论
+comment_post_ID: 13
+comment_parent: 0}
+
+(my comment for the first blog is on page 9424)
+
+view comment url: https://wordpress-edu-3autumn.localprod.oc.forchange.cn/all-about-the-future_01/
+	https://wordpress-edu-3autumn.localprod.oc.forchange.cn/all-about-the-future_02/
+	...
+

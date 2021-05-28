@@ -1,0 +1,6 @@
+target: 'https://wp.forchange.cn/resources/page/' + pagenum
+
+imagelink: <div class="media-pic"> -> <a> -> <img srcset>
+
+imagename: <div class="media-pic"> -> <a> -> <img alt>
+

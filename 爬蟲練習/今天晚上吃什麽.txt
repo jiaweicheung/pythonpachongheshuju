@@ -1,0 +1,10 @@
+target: https://www.xiachufang.com/explore/
+
+dad: <div class="info pure-u">
+
+title: element <p class='name'> -> <a> (first)
+
+recipe link: http://www.xiachufang.com + href
+
+material: <p class="ing ellipsis"> -> findall <a> or all text
+
